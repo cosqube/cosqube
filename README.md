@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Cosqube</h1>
+<h1 align="center">Hey there 👋, I'm Kaustubh</h1>
 <h3 align="center">Student | Tech Enthusiast | Learning DevOps, AI/ML, and DSA</h3>
 
 ---
