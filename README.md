@@ -5,7 +5,6 @@
 
 ### 🧠 About Me
 - 🎓 Currently an undergrad in **B.Tech CSE (Cybersecurity)** at **NFSU, Delhi**
-- 🏫 Completed schooling from **EHIS, Indore**
 - 🌱 Learning DevOps, AI/ML, Python, GATE CS theory, and DSA
 - 🛠️ Building real-world projects (see below 👇)
 - 💡 Passionate about systems, automation, and open-source communities
