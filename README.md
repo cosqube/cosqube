@@ -48,18 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosqube&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=cosqube&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosqube&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
